@@ -2,7 +2,7 @@
 
 ## Staying safe from COVID: Some Dos and Donts
 
-My mother and her brother, and my uncle, died from COVID in the last week. One of my friend is in the ICU and his blood oxygen is `84`! My father is now recovering from COVID. I have started this list based on what we did wrong and what we got right. Please read carefully. These instructions supplement the [CDC instructions](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html).  I know in my heart that "it is impossible for (people) to obey a bunch of rules unless they understand how (they work)", so **please read the explanations**. The latest version is maintained at https://github.com/pushpendre/covid-manual. Tell me if you see something wrong.
+My mother and her brother, and my uncle, died from COVID in the last week. One of my friend is in the ICU and his blood oxygen is `84`! My father is now recovering from COVID. I have started this list based on what we did wrong and what we got right. Please read carefully. These instructions supplement the [CDC instructions](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html).  I know in my heart that "it is impossible for (people) to obey a bunch of rules unless they understand how (they work)", so **please read the explanations**. The latest version is maintained at https://github.com/pushpendre/covid-manual. Tell me if you see something wrong. `Please share if you think its useful`.
 
 1. **Take steam regularly.**
 

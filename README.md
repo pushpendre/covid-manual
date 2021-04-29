@@ -4,9 +4,9 @@
 
 My mother and her brother, and my uncle, died from COVID in the last week. One of my friend is in the ICU and his blood oxygen is `84`! My father is now recovering from COVID. I have started this list based on what we did wrong and what we got right. Please read carefully. These instructions supplement the [CDC instructions](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html).  I know in my heart that "it is impossible for (people) to obey a bunch of rules unless they understand how (they work)", so **please read the explanations**. The latest version is maintained at https://github.com/pushpendre/covid-manual. Tell me if you see something wrong. **`Please share if you think its useful`.**
 
-1. **Take steam regularly.**
+1. **Take steam regularly, but not so much that it damages your respiratory tract.**
 
-The virus first infects the airways in our nose. After growing in the nose it travels to the lungs and other organs. High temperature can kill the virus and **slow down (not stop)** the growth of the virus. Think of it as disinfecting your nose. Another potential benefit is that it reduces inflammation.
+The virus first infects the airways in our nose. After growing in the nose it travels to the lungs and other organs. High temperature can **slow down (not stop)** the growth of the virus. Another potential benefit is that it reduces inflammation, clears the nasal passage and congestion.
 
 2. **Vaccine means more than an injection.**
 
@@ -32,9 +32,9 @@ The positivity rate for COVID is in high 20%. If you have black stool, loose mot
 मेरी माँ, मामाजी और मौसाजी COVID से पिछले हफ़्ते में मर गए । मेरा एक दोस्त ICU में है और उसका औकसीजन  `84` है ।  हमसे जो भूल चूक हुयी उसके लिए मैंने ये सूची बनायी है ।  कृपया ध्यान से पड़े। ये जानकारी CDC के निर्देश से अलग है । मैं ये जानता हूँ की **लोग निर्देशो का पालन तब तक नहीं कर सकते जब तक उन्हें  उनके पीछे का अर्थ  ना समझाया जाए, इसलिए इस लेख को पूरा पड़े** । सबसे नया संस्करण आप यहाँ देख सकते है https://github.com/pushpendre/covid-manual/ । अगर आपको इसमें कोई गलती लगती है तो मुझे बताए । इस जानकारी को और लोगों के साथ शेर करे। 
 
 
-1. **लगातार भाप ले**
+1. **लगातार भाप ले पर इतनी ज़्यादा नहीं की आपकी साँस की नली को नुक़सान पहुँचे **
 
-वाइरस के शुक्राणु सबसे पहले हमारी नाक की नली में बड़ते है । नाक में बड़त के बाद वो फेफ़ेड़े में फैलते है । ऊँचा तापमान वाइरस को मारता है और उसको बडने से रोकता है । ऐसे सोचे जैसे आप अपनी नाक की कीटाणु  रहित कर रहे है ।
+वाइरस के शुक्राणु सबसे पहले हमारी नाक की नली में बड़ते है । नाक में बड़त के बाद वो फेफ़ेड़े में फैलते है । ऊँचा तापमान वाइरस को बडने से रोकता है । ऐसे सोचे जैसे आप अपनी नाक की कीटाणु  रहित कर रहे है । ऐसे भी सोच सकते है की इससे नाक में रउकावट कम होगी ।
 
 2. **वैक्सीन एक इंजेक्शन से बड़कर है**
 

@@ -2,7 +2,7 @@
 
 ## Staying safe from COVID: Some Dos and Donts
 
-My mother and her brother, and my uncle, died from COVID in the last week. One of my friend is in the ICU and his blood oxygen is `84`! My father is now recovering from COVID. I have started this list based on what we did wrong and what we got right. Please read carefully. These instructions supplement the [CDC instructions](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html).  I know in my heart that "it is impossible for (people) to obey a bunch of rules unless they understand how (they work)", so **please read the explanations**. The latest version is maintained at https://github.com/pushpendre/covid-manual. Tell me if you see something wrong. `Please share if you think its useful`.
+My mother and her brother, and my uncle, died from COVID in the last week. One of my friend is in the ICU and his blood oxygen is `84`! My father is now recovering from COVID. I have started this list based on what we did wrong and what we got right. Please read carefully. These instructions supplement the [CDC instructions](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html).  I know in my heart that "it is impossible for (people) to obey a bunch of rules unless they understand how (they work)", so **please read the explanations**. The latest version is maintained at https://github.com/pushpendre/covid-manual. Tell me if you see something wrong. **`Please share if you think its useful`.**
 
 1. **Take steam regularly.**
 
@@ -29,9 +29,8 @@ The positivity rate for COVID is in high 20%. If you have black stool, loose mot
 
 ## COVID से बचने के तरीक़े : क्या करे और क्या ना करे 
 
-मेरी माँ, मामाजी और मौसाजी COVID से पिछले हफ़्ते में मर गए । मेरा एक दोस्त ICU में है और उसका औकसीजन  `84` है । 
-हमसे जो भूल चूक हुयी उसके लिए मैंने ये सूची बनायी है ।  कृपया ध्यान से पड़े। 
-ये जानकारी CDC के निर्देश से अलग है । मैं ये जानता हूँ की **लोग निर्देशो का पालन तब तक नहीं कर सकते जब तक उन्हें  उनके पीछे का अर्थ  ना समझाया जाए, इसलिए इस लेख को पूरा पड़े** । सबसे नया संस्करण आप यहाँ देख सकते है https://github.com/pushpendre/covid-manual/ । अगर आपको इसमें कोई गलती लगती है तो मुझे बताए ।     
+मेरी माँ, मामाजी और मौसाजी COVID से पिछले हफ़्ते में मर गए । मेरा एक दोस्त ICU में है और उसका औकसीजन  `84` है ।  हमसे जो भूल चूक हुयी उसके लिए मैंने ये सूची बनायी है ।  कृपया ध्यान से पड़े। ये जानकारी CDC के निर्देश से अलग है । मैं ये जानता हूँ की **लोग निर्देशो का पालन तब तक नहीं कर सकते जब तक उन्हें  उनके पीछे का अर्थ  ना समझाया जाए, इसलिए इस लेख को पूरा पड़े** । सबसे नया संस्करण आप यहाँ देख सकते है https://github.com/pushpendre/covid-manual/ । अगर आपको इसमें कोई गलती लगती है तो मुझे बताए । इस जानकारी को और लोगों के साथ शेर करे। 
+
 
 1. **लगातार भाप ले**
 
